@@ -1,1 +1,7 @@
-
+{
+  "prompt": "A child made entirely of fragile glass, sitting in a dim room, inside their chest are tiny glowing city lights emitting dark smoke, cracks spreading through the glass body from inside, soft cinematic lighting, emotional, surreal, symbolic, no text, no charts, no labels, single frame, highly detailed",
+  "model": "DALL·E 3",
+  "dataset_name": "Air pollution deaths",
+  "dataset_url": "https://ourworldindata.org/air-pollution",
+  "insight": "Air pollution silently damages human health from within"
+}
