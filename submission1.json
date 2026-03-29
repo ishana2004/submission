@@ -1,1 +1,6 @@
-
+{
+  "prompt": "A highly detailed realistic scene of a craftsman holding an extremely intricate key that perfectly fits one old lock, while many other locks around remain unopened, the key is overly complex and fragile, workshop environment, cinematic lighting, natural textures, no text, no diagrams, no symbols, realistic photography style",
+  "model": "DALL·E 3",
+  "concept": "overfitting",
+  "metaphor": "An overly complex key fits one lock perfectly but fails to open others, representing memorization without generalization"
+}
